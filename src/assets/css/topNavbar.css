@@ -1,0 +1,24 @@
+.topnavbar-appbar {
+    background-color: #b3b3b3;
+}
+
+.topnavbar-typography-h6 {
+    font: variant h 6px;
+    flex-wrap: nowrap;
+    font-family: monospace;
+    font-weight: 700;
+    letter-spacing: .3rem;
+    color:inherit;
+    text-decoration: none;
+}
+
+.topnavbar-typography-h5 {
+    font: variant h 5px;
+    flex-wrap: nowrap;
+    font-family: monospace;
+    font-weight: 700;
+    letter-spacing: .3rem;
+    color:inherit;
+    text-decoration: none;
+}
+
