@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/company-site/static/css/main.5459f7bc.css",
+    "main.js": "/company-site/static/js/main.345c8313.js",
+    "static/js/453.89454847.chunk.js": "/company-site/static/js/453.89454847.chunk.js",
+    "static/media/StockCake-Futuristic Technology Team_1714573976.jpg": "/company-site/static/media/StockCake-Futuristic Technology Team_1714573976.6e9fc4ac6aca8bfe22ba.jpg",
+    "index.html": "/company-site/index.html",
+    "main.5459f7bc.css.map": "/company-site/static/css/main.5459f7bc.css.map",
+    "main.345c8313.js.map": "/company-site/static/js/main.345c8313.js.map",
+    "453.89454847.chunk.js.map": "/company-site/static/js/453.89454847.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5459f7bc.css",
+    "static/js/main.345c8313.js"
+  ]
+}
