@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/company-site/static/css/main.5459f7bc.css",
-    "main.js": "/company-site/static/js/main.345c8313.js",
+    "main.css": "/company-site/static/css/main.310a8522.css",
+    "main.js": "/company-site/static/js/main.2a5e4b5b.js",
     "static/js/453.89454847.chunk.js": "/company-site/static/js/453.89454847.chunk.js",
     "static/media/StockCake-Futuristic Technology Team_1714573976.jpg": "/company-site/static/media/StockCake-Futuristic Technology Team_1714573976.6e9fc4ac6aca8bfe22ba.jpg",
     "index.html": "/company-site/index.html",
-    "main.5459f7bc.css.map": "/company-site/static/css/main.5459f7bc.css.map",
-    "main.345c8313.js.map": "/company-site/static/js/main.345c8313.js.map",
+    "main.310a8522.css.map": "/company-site/static/css/main.310a8522.css.map",
+    "main.2a5e4b5b.js.map": "/company-site/static/js/main.2a5e4b5b.js.map",
     "453.89454847.chunk.js.map": "/company-site/static/js/453.89454847.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5459f7bc.css",
-    "static/js/main.345c8313.js"
+    "static/css/main.310a8522.css",
+    "static/js/main.2a5e4b5b.js"
   ]
 }
