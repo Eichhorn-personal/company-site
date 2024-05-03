@@ -1,6 +1,5 @@
 const ProjectsInGithub = [
     {
-        key: 1,
         title: "React Portfolio App",
         subtitle: "React/Material Web Project",
         imgURL: "react_code.webp",
@@ -10,7 +9,6 @@ const ProjectsInGithub = [
     },
 
     {
-        key: 2,
         title: "Eichhorn-Personal Repo",
         subtitle: "Github Account Home Page",
         imgURL: "GithubDashboard.png",
@@ -20,7 +18,6 @@ const ProjectsInGithub = [
     },
 
     {
-        key: 3,
         title: "Motivational Poster",
         subtitle: "Simple HTML Page",
         imgURL: "MotivatePoster.png",
@@ -30,11 +27,10 @@ const ProjectsInGithub = [
     },
 
     {
-        key: 4,
-        title: "3rd Project",
-        subtitle: "",
-        imgURL: "345x194.png",
-        description: "Simple html based page created to display beginner web developer projects",
+        title: "Lorem ipsum title",
+        subtitle: "Lorem ipsum subtitle",
+        imgURL: "http://loremflickr.com/345/194",
+        description: "Sample card created using lorem ipsum text and html breaks within a JSON object string field to test rendering a string with html breaks through JSX.<br><br>Uses https://loremflickr.com/ for header image",
         publishLink: "https://eichhorn-personal.github.io/html-portfolio/",
         repoLink: ""
     }
